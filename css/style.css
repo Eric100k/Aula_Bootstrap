@@ -1,0 +1,38 @@
+body{
+    font: 20px;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.navbar-brand{
+    margin-left: 1%;
+    padding: 2px;
+}
+
+.quem-somos{
+    background-color: #a7a7a7;
+}
+.parça{
+    background-color: #d4d4d4;
+}
+.nav-link{
+    color: white;
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+p{
+    font: 30px;
+}
+
+.bgfooter{
+    background-color: black;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
